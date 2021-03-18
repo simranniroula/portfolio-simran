@@ -1,0 +1,24 @@
+if error arrise while creating new project:
+
+  python3 -m venv djangoenv
+
+If there is C in terminal:
+     >cd venv/Scripts
+  then 
+     Activate venv
+
+GOOGLE CLASSROOM CODE:
+    oplbi3b
+
+TO RETURN FROM DIRECTRY
+   cd ..  
+TO GO BACKK TO DIRECTRY
+    cd foldername
+
+TO INSTALL DJANGO
+ Write pip install django in terminal
+
+
+user
+simran
+pa$$w0rd
